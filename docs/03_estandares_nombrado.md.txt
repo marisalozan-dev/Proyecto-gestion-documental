@@ -1,0 +1,7 @@
+# Estándares de Nombrado
+
+Formato recomendado:
+PROYECTO-AREA-TIPO-CODIGO-VERSION
+
+Ejemplo:
+PLANTA-MEC-MEM-001-V03

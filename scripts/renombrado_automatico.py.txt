@@ -1,0 +1,10 @@
+import os
+
+def renombrar_documentos(ruta, prefijo):
+    for i, archivo in enumerate(os.listdir(ruta), start=1):
+        extension = archivo.split(".")[-1]
+        nuevo_nombre = f"{prefijo}_{str(i).zfill(3)}.{extension}"
+        os.rename(os.path.join(ruta, archivo), os.path.join(ruta, nuevo_nombre))
+
+if __name__ == "__main__":
+    renombrar_documentos("docs_originales", "PROYECTO_A")

@@ -1,0 +1,3 @@
+# Automatización Básica
+
+Incluye un script en Python para renombrado masivo de documentos siguiendo un estándar definido.

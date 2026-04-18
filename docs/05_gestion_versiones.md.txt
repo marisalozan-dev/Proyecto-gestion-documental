@@ -1,0 +1,6 @@
+# Gestión de Versiones
+
+- V00: Borrador
+- V01: Primera revisión
+- V02+: Revisiones sucesivas
+- Aprobado: Estado final para emisión

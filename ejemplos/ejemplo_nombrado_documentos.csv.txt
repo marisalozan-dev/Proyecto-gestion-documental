@@ -1,0 +1,4 @@
+nombre_original,nombre_estandarizado
+memoria_final.pdf,PLANTA-MEC-MEM-001-V01.pdf
+plano_general.dwg,PLANTA-ARQ-PLN-015-V02.dwg
+informe_calculo.docx,PLANTA-ING-INF-003-V00.docx

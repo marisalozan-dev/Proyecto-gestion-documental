@@ -1,0 +1,6 @@
+# Flujo de Aprobaciones
+
+- Autor
+- Revisor técnico
+- Control Documental
+- Aprobador final

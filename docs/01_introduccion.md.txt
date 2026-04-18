@@ -1,0 +1,3 @@
+# Introducción
+
+La gestión documental en entornos técnicos garantiza la trazabilidad, integridad y disponibilidad de la información. Este documento presenta buenas prácticas aplicables a ingeniería, construcción, energía y entornos industriales.

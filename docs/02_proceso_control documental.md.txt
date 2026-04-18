@@ -1,0 +1,8 @@
+# Proceso de Control Documental
+
+1. Recepción del documento
+2. Revisión de formato y metadatos
+3. Registro en sistema
+4. Asignación de versión
+5. Distribución para revisión/aprobación
+6. Archivo y publicación
